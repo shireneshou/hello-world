@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is my week 1 code.
+This is my week 1 code edited in gitpod.
